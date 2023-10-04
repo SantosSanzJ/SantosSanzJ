@@ -1,4 +1,7 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/javier-santos-sanz-51623826a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=santossanzj&langs_count=6&theme=tokyonight)]()
 <!--
 **SantosSanzJ/SantosSanzJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
